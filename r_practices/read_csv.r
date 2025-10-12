@@ -5,6 +5,8 @@ library(here)
 # Linux: "/home/username/data/data.csv"
 # macOS: "/Users/username/data/data.csv"
 
-my_path <- here("data", "dat.csv")
-veri <- read.csv("data/veri1.csv")
+# getwd() # Verify the current working directory
+getwd()
+
+veri <- read.csv("r_practices/data/data.csv")
 print(veri)
