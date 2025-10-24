@@ -1,6 +1,6 @@
 # R Practices
 
-This repository contains various R programming practices and examples.
+This repository includes examples and practical exercises on **R Programming**, **Statistical Analysis**, and **Data Visualization**. It also contains notes from courses at the **Istanbul Commerce University Department of Statistics**, where R is actively used.
 
 ## License
 
