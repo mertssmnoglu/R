@@ -16,6 +16,8 @@
 | Hafta 4        | 10 Ekim 2025  | Barplot, Histogram ve PDF Kaydı Uygulamaları               | [Link](./2025-10-10_uygulamali_istatistik_w4/) |
 | Hafta 5        | 17 Ekim 2025  | Frekans Analizi ve Özelleştirilmiş Grafikler               | [Link](./2025-10-17_uygulamali_istatistik_w5/) |
 | Hafta 6        | 24 Ekim 2025  | Normal Dağılım ve Olasılık Hesaplamaları                   | [Link](./2025-10-24_uygulamali_istatistik_w6/) |
+| Hafta 7        | 31 Ekim 2025  | Hipotez Testleri                                           | [Link](./2025-10-31_uygulamali_istatistik_w7/) |
+| Hafta 8        | -             | Vize Haftası                                               | -                                              |
 
 ## Sınav Benzeri Sorular
 
