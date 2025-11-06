@@ -21,14 +21,22 @@
 
 ## Sınav Benzeri Sorular
 
-Bu sorular tamamen ders notlarından oluşturulmuş olup herhangi bir sınavın resmi soruları değildir. Öğretim görevlisi tarafından hazırlanmamış veya onaylanmamıştır. Pratik amaçlı olarak sunulmaktadır.
+Bu sorular ve çözümleri herhangi bir resmi sınava ait değildir. Sınavlara hazırlık amacıyla oluşturulmuş pratik yapılabilecek materyallerdir. Sınav olma özelliği taşımamaktadır.
+
+Kesinlikle herhangi bir şekilde kopya çekmek, intihal yapmak veya akademik etik kurallarını ihlal etmek amacıyla kullanılmamalıdır. Hiçbir sınavın cevap anahtarı olarak değerlendirilmemelidir.
 
 | Defter                                     | Google Colab                                                                                                    | Dosya                                          |
 | ------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
 | 2025-2026 Sınav Benzeri Vize Soru Defteri  | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-sorular-colab] | [`vize_sorular.ipynb`][2025-2026-vize-sorular] |
 | 2025-2026 Sınav Benzeri Vize Çözüm Defteri | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-cozum-colab]   | [`vize_cozumler.ipynb`][2025-2026-vize-cozum]  |
+| ⭐ 2025-2026 Sınav Benzeri Vize Soru Defteri 2  | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-sorular-2-colab] | [`vize_sorular_2.ipynb`][2025-2026-vize-sorular-2] |
+| ⭐ 2025-2026 Sınav Benzeri Vize Çözüm Defteri 2 | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-cozum-2-colab]   | [`vize_cozumler_2.ipynb`][2025-2026-vize-cozum-2]  |
 
 [2025-2026-vize-sorular]: ./_sinav_benzeri_sorular/questions/vize_sorular.ipynb
 [2025-2026-vize-cozum]: ./_sinav_benzeri_sorular/solutions/vize_cozumler.ipynb
 [2025-2026-vize-sorular-colab]: https://colab.research.google.com/github/mertssmnoglu/R/blob/main/uygulamali_istatistik_2025-2026/_sinav_benzeri_sorular/questions/vize_sorular.ipynb
 [2025-2026-vize-cozum-colab]: https://colab.research.google.com/github/mertssmnoglu/R/blob/main/uygulamali_istatistik_2025-2026/_sinav_benzeri_sorular/solutions/vize_cozumler.ipynb
+[2025-2026-vize-sorular-2]: ./_sinav_benzeri_sorular/questions/vize_sorular_2.ipynb
+[2025-2026-vize-cozum-2]: ./_sinav_benzeri_sorular/solutions/vize_cozumler_2.ipynb
+[2025-2026-vize-sorular-2-colab]: https://colab.research.google.com/github/mertssmnoglu/R/blob/main/uygulamali_istatistik_2025-2026/_sinav_benzeri_sorular/questions/vize_sorular_2.ipynb
+[2025-2026-vize-cozum-2-colab]: https://colab.research.google.com/github/mertssmnoglu/R/blob/main/uygulamali_istatistik_2025-2026/_sinav_benzeri_sorular/solutions/vize_cozumler_2.ipynb
