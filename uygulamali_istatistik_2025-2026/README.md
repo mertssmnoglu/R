@@ -18,6 +18,7 @@
 | Hafta 6        | 24 Ekim 2025  | Normal Dağılım ve Olasılık Hesaplamaları                   | [Link](./2025-10-24_uygulamali_istatistik_w6/) |
 | Hafta 7        | 31 Ekim 2025  | Hipotez Testleri                                           | [Link](./2025-10-31_uygulamali_istatistik_w7/) |
 | Hafta 8        | -             | Vize Haftası                                               | -                                              |
+| Hafta 9        | 14 Kasım 2025 | İki Örneklem T Testi                                       | [Link](./2025-11-14_uygulamali_istatistik_w9/) |
 
 ## Sınav Benzeri Sorular
 
