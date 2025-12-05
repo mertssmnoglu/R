@@ -20,6 +20,8 @@
 | Hafta 8        | -             | Vize Haftası                                               | -                                               |
 | Hafta 9        | 14 Kasım 2025 | İki Örneklem T Testi                                       | [Link](./2025-11-14_uygulamali_istatistik_w9/)  |
 | Hafta 10       | 21 Kasım 2025 | Tek Örneklem T Testi ve Varyans Analizi                    | [Link](./2025-11-21_uygulamali_istatistik_w10/) |
+| Hafta 11       | 28 Kasım 2025 | Parametrik Olmayan Testler                                 | [Link](./2025-11-28_uygulamali_istatistik_w11/) |
+| Hafta 12       | 5 Aralık 2025 | Parametrik Olmayan Testler - 2                             | [Link](./2025-12-05_uygulamali_istatistik_w12/) |
 
 ## Sınav Benzeri Sorular
 
