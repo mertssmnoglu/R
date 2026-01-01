@@ -23,6 +23,7 @@
 | Hafta 11       | 28 Kasım 2025  | Parametrik Olmayan Testler                                 | [Link](./2025-11-28_uygulamali_istatistik_w11/) |
 | Hafta 12       | 5 Aralık 2025  | Parametrik Olmayan Testler - 2                             | [Link](./2025-12-05_uygulamali_istatistik_w12/) |
 | Hafta 13       | 12 Aralık 2025 | Korelasyon Analizi                                         | [Link](./2025-12-12_uygulamali_istatistik_w13/) |
+| Hafta 14       | 19 Aralık 2025 | Regresyon Analizi                                          | [Link](./2025-12-19_uygulamali_istatistik_w14/) |
 
 ## Sınav Benzeri Sorular
 
@@ -30,12 +31,12 @@ Bu sorular ve çözümleri herhangi bir resmi sınava ait değildir. Sınavlara 
 
 Kesinlikle herhangi bir şekilde kopya çekmek, intihal yapmak veya akademik etik kurallarını ihlal etmek amacıyla kullanılmamalıdır. Hiçbir sınavın cevap anahtarı olarak değerlendirilmemelidir.
 
-| Defter                                     | Google Colab                                                                                                    | Dosya                                          |
-| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| 2025-2026 Sınav Benzeri Vize Soru Defteri  | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-sorular-colab] | [`vize_sorular.ipynb`][2025-2026-vize-sorular] |
-| 2025-2026 Sınav Benzeri Vize Çözüm Defteri | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-cozum-colab]   | [`vize_cozumler.ipynb`][2025-2026-vize-cozum]  |
-| ⭐ 2025-2026 Sınav Benzeri Vize Soru Defteri 2  | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-sorular-2-colab] | [`vize_sorular_2.ipynb`][2025-2026-vize-sorular-2] |
-| ⭐ 2025-2026 Sınav Benzeri Vize Çözüm Defteri 2 | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-cozum-2-colab]   | [`vize_cozumler_2.ipynb`][2025-2026-vize-cozum-2]  |
+| Defter                                       | Google Colab                                                                                                      | Dosya                                              |
+| -------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
+| 2025-2026 Sınav Benzeri Vize Soru Defteri    | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-sorular-colab]   | [`vize_sorular.ipynb`][2025-2026-vize-sorular]     |
+| 2025-2026 Sınav Benzeri Vize Çözüm Defteri   | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-cozum-colab]     | [`vize_cozumler.ipynb`][2025-2026-vize-cozum]      |
+| 2025-2026 Sınav Benzeri Vize Soru Defteri 2  | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-sorular-2-colab] | [`vize_sorular_2.ipynb`][2025-2026-vize-sorular-2] |
+| 2025-2026 Sınav Benzeri Vize Çözüm Defteri 2 | [![Google Colab'de Aç](https://colab.research.google.com/assets/colab-badge.svg)][2025-2026-vize-cozum-2-colab]   | [`vize_cozumler_2.ipynb`][2025-2026-vize-cozum-2]  |
 
 [2025-2026-vize-sorular]: ./_sinav_benzeri_sorular/questions/vize_sorular.ipynb
 [2025-2026-vize-cozum]: ./_sinav_benzeri_sorular/solutions/vize_cozumler.ipynb
